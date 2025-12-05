@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764961038 source:c:\users\nasti\git\anastasija\december5\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+
