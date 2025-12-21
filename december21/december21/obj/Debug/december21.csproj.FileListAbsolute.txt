@@ -1,0 +1,7 @@
+C:\Users\nasti\Git\Anastasija\december21\december21\bin\Debug\december21.exe.config
+C:\Users\nasti\Git\Anastasija\december21\december21\bin\Debug\december21.exe
+C:\Users\nasti\Git\Anastasija\december21\december21\bin\Debug\december21.pdb
+C:\Users\nasti\Git\Anastasija\december21\december21\obj\Debug\december21.csproj.AssemblyReference.cache
+C:\Users\nasti\Git\Anastasija\december21\december21\obj\Debug\december21.csproj.CoreCompileInputs.cache
+C:\Users\nasti\Git\Anastasija\december21\december21\obj\Debug\december21.exe
+C:\Users\nasti\Git\Anastasija\december21\december21\obj\Debug\december21.pdb
